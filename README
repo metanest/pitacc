@@ -1,0 +1,24 @@
+= PitaCC =
+
+PitaCC is parser generator (framework) which implemented as
+inner DSL on Ruby.
+
+Only LL1 engine is implemented yet.
+
+Specifications may change in future releases.
+
+== License ==
+
+MIT X License
+
+== Usage ==
+
+See sample.rb .
+
+== This Version ==
+
+2012/Oct/6 v0.0.1 first version
+
+== History ==
+
+2012/Oct/6 v0.0.1 first version
